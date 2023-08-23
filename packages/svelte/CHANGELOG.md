@@ -1,5 +1,11 @@
 # svelte
 
+## 4.2.1
+
+### Patch Changes
+
+- fix: css sourcemap generation with unicode filenames ([#9120](https://github.com/sveltejs/svelte/pull/9120))
+
 ## 4.2.0
 
 ### Minor Changes
